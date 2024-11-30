@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "supertest_exmaple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "supertest": "^7.0.0",
+    "vitest": "^2.1.6"
+  }
+}
